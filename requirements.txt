@@ -1,0 +1,9 @@
+## Requirements:
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+
+PostgreSQL
+PowerBI Desktop
+
